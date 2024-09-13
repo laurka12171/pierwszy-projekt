@@ -1,2 +1,1 @@
 # pierwszy-projekt
-# pierwszy-projekt
